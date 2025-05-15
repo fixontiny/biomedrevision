@@ -26,6 +26,7 @@ body{
 .quiz{
     padding: 20px 0;
     text-align: center;
+    min-height: 300px;
 }
 .quiz h2{
     font-size: 18px;
